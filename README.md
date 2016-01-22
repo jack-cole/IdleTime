@@ -13,6 +13,6 @@ This is a Python script that runs LOCALLY (if you try to run it remotely, you're
 ## Installation
 
 1. Get your ServerQuery login information
-2. Rename *Example_idletime.cfg* to *idletime.cfg*
-3. Open *idletime.cfg* and set the values. There's comments on everything inside.
-4. Run *idletime.pl* with Perl
+2. Rename **Example_idletime.cfg** to **idletime.cfg**
+3. Open **idletime.cfg** and set the values. There's comments on everything inside.
+4. Run **idletime.pl** with Perl
