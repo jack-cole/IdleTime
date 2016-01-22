@@ -3,9 +3,10 @@
 #	|_ _|__| | |___  |_   _(_)_ __  ___ _ _ 
 #	 | |/ _` | / -_)   | | | | '  \/ -_| '_|
 #	|___\__,_|_\___|   |_| |_|_|_|_\___|_|  
-#	v1.06 [2014-07-15]
+#	v1.1 [2016-01-22]
 #	by Jack the Smack                                      
-#	Discussion: http://forum.teamspeak.com/showthread.php/101272-Perl-Idle-Timer-Display-how-long-they-ve-been-AFK-without-moving-or-kicking-them                
+#	Old Discussion Thread: http://forum.teamspeak.com/showthread.php/101272-Perl-Idle-Timer-Display-how-long-they-ve-been-AFK-without-moving-or-kicking-them
+#	Github: https://github.com/jackthesmack/IdleTime
 #	Contact: idle_timer@jack-cole.com
 
 #	How to use: 
