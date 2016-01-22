@@ -18,3 +18,7 @@ This is a Python script that runs LOCALLY (if you try to run it remotely, you're
 2. Rename **Example_idletime.cfg** to **idletime.cfg**
 3. Open **idletime.cfg** and set the values. There's comments on everything inside.
 4. Run **idletime.pl** with Perl
+
+## Bugs
+
+* When more than one person have the same idle time displayed, it might glitch out and rapidly change. It shouldn't negatively affect the server.
