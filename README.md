@@ -21,4 +21,4 @@ This is a Python script that runs LOCALLY (if you try to run it remotely, you're
 
 ## Bugs
 
-* When more than one person have the same idle time displayed, it might glitch out and rapidly change. It shouldn't negatively affect the server.
+* When more than one person has the same idle time displayed, it might glitch out and rapidly change. It shouldn't negatively affect the server.
