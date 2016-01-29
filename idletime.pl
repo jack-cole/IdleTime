@@ -25,7 +25,7 @@ use Data::Dumper qw(Dumper);
 use File::Basename;
 use Cwd 'abs_path';
 use Time::HiRes qw (usleep);
-no warnings "experimental::autoderef";
+#no warnings "experimental::autoderef";
 
 #Defaults
 my %cfg = (
